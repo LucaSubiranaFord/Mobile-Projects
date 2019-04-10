@@ -1,1 +1,1 @@
-Simple open source reactJs projects
+Simple task app
